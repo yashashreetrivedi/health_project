@@ -1,0 +1,33 @@
+{
+  "name": "final_project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "bootstrap-material-design": "0.5.10",
+    "react-bootstrap": "0.30.7",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "5.0.7",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-saga": "0.16.0",
+    "toastr": "2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "lint": "eslint src/**/*.js src/**/*.jsx",
+    "test": "react-scripts test --env=jsdom --coverage",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@types/enzyme": "^3.1.12",
+    "@types/jest": "^23.3.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest": "^23.4.1",
+    "react-test-renderer": "^16.4.1"
+  }
+}
