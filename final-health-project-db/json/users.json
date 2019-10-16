@@ -1,0 +1,104 @@
+[
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db2b"),
+    "name": "Wayne Erickson",
+    "title": "Director",
+    "roles": [
+      "USER",
+      "ADMIN"
+    ],
+    "email": "werickson@superhealth.com",
+    "password": "password"
+  },
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db2c"),
+    "name": "Peter Williams",
+    "title": "Biller",
+    "roles": [
+      "USER",
+      "ADMIN"
+    ],
+    "email": "pwilliams@superhealth.com",
+    "password": "password"
+  },
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db2d"),
+    "name": "Vernon Burns",
+    "title": "Biller",
+    "roles": [
+      "USER"
+    ],
+    "email": "vburns@superhealth.com",
+    "password": "password"
+  },
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db2e"),
+    "name": "Elnora Willis",
+    "title": "Provider",
+    "roles": [
+      "USER"
+    ],
+    "email": "ewillis@superhealth.com",
+    "password": "password"
+  },
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db2f"),
+    "name": "Bruce Malone",
+    "title": "Biller",
+    "roles": [
+      "USER"
+    ],
+    "email": "bmalone@superhealth.com",
+    "password": "password"
+  },
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db30"),
+    "name": "Willie Guerrero",
+    "title": "Provider",
+    "roles": [
+      "USER"
+    ],
+    "email": "wguerrero@superhealth.com",
+    "password": "password"
+  },
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db31"),
+    "name": "Dean Tran",
+    "title": "Director",
+    "roles": [
+      "USER"
+    ],
+    "email": "dtran@superhealth.com",
+    "password": "password"
+  },
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db32"),
+    "name": "Dylan George",
+    "title": "Director",
+    "roles": [
+      "USER"
+    ],
+    "email": "dgeorge@superhealth.com",
+    "password": "password"
+  },
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db33"),
+    "name": "Marguerite Graham",
+    "title": "Director",
+    "roles": [
+      "USER"
+    ],
+    "email": "mgraham@superhealth.com",
+    "password": "password"
+  },
+  {
+    "_id": ObjectId("5900eb2d4a0d410d4724db34"),
+    "name": "Bill Moran",
+    "title": "Director",
+    "roles": [
+      "USER"
+    ],
+    "email": "bmoran@superhealth.com",
+    "password": "password"
+  }
+]
